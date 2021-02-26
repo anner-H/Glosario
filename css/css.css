@@ -1,0 +1,107 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
+
+header{
+    width: 1000%;
+    height: 70px;
+    background-color: darkred;
+    
+}
+
+body{
+    background-color: snow;
+    background-image: url("https://i.pinimg.com/originals/90/d8/ba/90d8ba1f2ddad667dcbf4bcfdffc3c12.gif");
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+
+h1{
+    font-family: sans-serif;
+    text-align: center;
+    font-size: 40px;
+    
+}
+
+h2{
+    font-family: sans-serif;
+    color: darkred;
+    font-size: 30px;
+}
+
+h3{
+    font-family: sans-serif;
+    color: mistyrose;
+    font-size: 20px;
+}
+
+h4{
+    font-family: sans-serif;
+    color: darkred;
+    font-size: 20px;
+    text-align: left;
+}
+
+h5{
+    font-family: sans-serif;
+    color: black;
+    font-size: 18px;
+}
+
+footer{
+    width: 1000%;
+    height: 100px;
+    background-color: darkred;
+}
+
+section{
+    width: 1000px;
+    height: auto;
+    margin: 30px auto;
+    background-color: rgba(255%,236%,245%,.4);
+}
+
+
+p{
+    font-family: sans-serif;
+    font-size: 15px;
+    color: snow;
+}
+
+.li{
+   Font-size: 17px;
+   color: darkred;
+   font-family: sans-serif;
+}
+
+.titulo{
+    text-align: center;
+    Font-size: 25px;
+    color: white;
+    background-color: darkred;
+    font-family: sans-serif;
+}
+
+table{
+    color: black;
+    background-color: snow;
+    text-align: center;
+    align-content: center;
+    margin: 20px 0px 30px 0px;
+    width:1000px;
+    margin:auto;
+}
+
+ .background {
+    width: 2000px;
+    height: 3000px;
+    background-color: #000;
+    padding: 10px;
+    margin: 0px 0px 10px 0px;
+    opacity: 0.6;
+}
+
